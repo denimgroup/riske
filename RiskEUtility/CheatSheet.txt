@@ -1,0 +1,38 @@
+Copyright (c) 2007-2010 Denim Group, Ltd.
+All rights reserved
+
+
+SQL INJECTION
+
+
+Alphanumeric Regular Expression (plus underscore):
+
+^[a-zA-Z0-9_]+$
+
+string sql = @"SELECT * FROM [User] WHERE Username = @Username AND Password = @Password";
+
+cmd.Parameters.Add("Username", txtUsername.Text);
+cmd.Parameters.Add("Password", txtPassword.Text);
+
+
+
+DIRECT OBJECT REFERENCE
+        Customer customer = (Customer)Session["Customer"];
+        if (customer._ID != (int)reader["UserID"])
+        {
+            //  Bad!
+            throw new Exception("Attempt to access invalid Statement");
+        }
+
+
+
+XSS
+
+
+HttpUtility.HtmlEncode(
+
+
+=============== USERS ====================
+1	tomjones	bigboy	Tom		Jones		152 Pecan Streetm Apartment 501	San Antonio	TX	78205	100438.00	4111-1111-1111-1111	02/2009
+2	jim_dean	sausage	Jimmy	Dean		418 Cave Lane					San Antonio	TX	78209	973.02		4417-1234-5678-9012	10/2008
+3	mistertexas	Texas!	Michael	Mitchell	9045 Nacogdoches Rd.			San Antonio	TX	78209	89.00		9280-5432-7654-6543	05/2007

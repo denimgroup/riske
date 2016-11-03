@@ -1,0 +1,15 @@
+C:\Users\dcornell\Desktop\New folder\RiskE\ZigguratUtilityWeb\bin\ZigguratUtilityWeb.dll
+C:\Users\dcornell\Desktop\New folder\RiskE\ZigguratUtilityWeb\bin\ZigguratUtilityWeb.pdb
+C:\Users\dcornell\Desktop\New folder\RiskE\ZigguratUtilityWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dcornell\Desktop\New folder\RiskE\ZigguratUtilityWeb\obj\Debug\ZigguratUtilityWeb.dll
+C:\Users\dcornell\Desktop\New folder\RiskE\ZigguratUtilityWeb\obj\Debug\ZigguratUtilityWeb.pdb
+C:\Users\dcornell\Desktop\RiskE\ZigguratUtilityWeb\bin\ZigguratUtilityWeb.dll
+C:\Users\dcornell\Desktop\RiskE\ZigguratUtilityWeb\bin\ZigguratUtilityWeb.pdb
+C:\Users\dcornell\Desktop\RiskE\ZigguratUtilityWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dcornell\Desktop\RiskE\ZigguratUtilityWeb\obj\Debug\ZigguratUtilityWeb.dll
+C:\Users\dcornell\Desktop\RiskE\ZigguratUtilityWeb\obj\Debug\ZigguratUtilityWeb.pdb
+C:\Users\dcornell\Desktop\RiskEUtility\RiskE_CleanBackup\ZigguratUtilityWeb\bin\ZigguratUtilityWeb.dll
+C:\Users\dcornell\Desktop\RiskEUtility\RiskE_CleanBackup\ZigguratUtilityWeb\bin\ZigguratUtilityWeb.pdb
+C:\Users\dcornell\Desktop\RiskEUtility\RiskE_CleanBackup\ZigguratUtilityWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dcornell\Desktop\RiskEUtility\RiskE_CleanBackup\ZigguratUtilityWeb\obj\Debug\ZigguratUtilityWeb.dll
+C:\Users\dcornell\Desktop\RiskEUtility\RiskE_CleanBackup\ZigguratUtilityWeb\obj\Debug\ZigguratUtilityWeb.pdb

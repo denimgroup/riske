@@ -1,0 +1,10 @@
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\ZigguratUtilityWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\ZigguratUtilityWeb\bin\RiskEUtilityWeb.dll
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\ZigguratUtilityWeb\bin\RiskEUtilityWeb.pdb
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\ZigguratUtilityWeb\obj\Debug\RiskEUtilityWeb.dll
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\ZigguratUtilityWeb\obj\Debug\RiskEUtilityWeb.pdb
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\RiskEUtilityWeb\bin\RiskEUtilityWeb.dll
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\RiskEUtilityWeb\bin\RiskEUtilityWeb.pdb
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\RiskEUtilityWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\RiskEUtilityWeb\obj\Debug\RiskEUtilityWeb.dll
+C:\Users\dcornell\Desktop\RiskEUtility\RiskEUtility\RiskEUtilityWeb\obj\Debug\RiskEUtilityWeb.pdb

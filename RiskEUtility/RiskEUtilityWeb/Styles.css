@@ -1,0 +1,70 @@
+﻿body 
+{
+	background-color:Silver;
+	font-family:Arial;
+	font-size:small;
+}
+
+a:visited
+{
+	color:Navy;
+	font-family:Arial;
+	font-size:small
+}
+
+a
+{
+	color:White;
+	font-family:Arial;
+	font-size:small
+}
+
+div
+{
+}
+
+.main_layout
+{
+	width:800px;
+}
+
+.header_footer
+{
+	background:#333;
+	width:"640px";
+	color:White
+}
+
+.header_footer a
+{
+	color:White
+}
+
+.header_footer a:visited
+{
+	color:White
+}
+
+.header_footer td
+{
+	text-align:center
+}
+
+.content
+{
+	background:#EEE;
+	height:500px;
+	width:100%;
+	padding:20px;
+}
+
+.content a
+{
+	color:Blue;
+}
+
+.content a:visited
+{
+	color:Blue;
+}
+

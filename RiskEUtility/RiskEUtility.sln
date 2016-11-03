@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{565BCD74-3F4E-4C03-8417-071FAC24AA1A}"
+	ProjectSection(SolutionItems) = preProject
+		CheatSheet.txt = CheatSheet.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiskEUtilityWeb", "RiskEUtilityWeb\RiskEUtilityWeb.csproj", "{6D78CFF4-F01A-4523-B3D1-2A8C35107A25}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RiskEUtilitySetup", "RiskEUtilitySetup\RiskEUtilitySetup.vdproj", "{38F76E7E-05A0-4925-A3DE-1E493CBB1D4C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://satteam.denimgroup.com:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RiskEUtilityWeb\\RiskEUtilityWeb.csproj
+		SccProjectName1 = RiskEUtilityWeb
+		SccLocalPath1 = RiskEUtilityWeb
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D78CFF4-F01A-4523-B3D1-2A8C35107A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D78CFF4-F01A-4523-B3D1-2A8C35107A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D78CFF4-F01A-4523-B3D1-2A8C35107A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D78CFF4-F01A-4523-B3D1-2A8C35107A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F76E7E-05A0-4925-A3DE-1E493CBB1D4C}.Debug|Any CPU.ActiveCfg = Debug
+		{38F76E7E-05A0-4925-A3DE-1E493CBB1D4C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
